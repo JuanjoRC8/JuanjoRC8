@@ -5,16 +5,16 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 ---
 
 ### 📊 GitHub Stats:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanjoRC8&show_icons=true&theme=radical)
 
 ### 🔥 My Contribution Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanjoRC8&theme=radical)](https://git.io/streak-stats)
 
 ### 🛠️ Languages & Tools:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoRC8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 My Activity Graph:
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanjoRC8&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -25,11 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 
 ---
 
-### 🌍 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Juanjo](https://github.com/JuanjoRC8)
