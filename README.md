@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Your Name]!
+### 👋 Hi, I'm [Juanjo]!
 
 Welcome to my GitHub profile! I'm a passionate developer constantly exploring new technologies and contributing to open source projects.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanjoRC8&show_icons=true&theme=radical)
 
 ### 🔥 My Contribution Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanjoRC8&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanjoRC8&theme=radical)](https://git.io/streak-stats)
 
 ### 🛠️ Languages & Tools:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoRC8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
