@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 ---
 
 ### 🌟 Fun Facts:
-- 🎯 Currently learning **[technology]**
-- 🌱 Working on **[project or skill]**
-- 🛠️ Love building with **[key skills or tools]**
+- 🎯 Currently learning **[React]**
+- 🌱 Working on **[Full Stack]**
+- 🛠️ Love building with **[Java]**
 
 ---
 
