@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Juanjo! 🚀
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a love for creating impactful, user-friendly, and scalable applications. Always learning, building, and exploring new technologies to push the boundaries of innovation.
+Welcome to my GitHub profile! I'm a passionate **Developer** with a love for creating impactful, user-friendly, and scalable applications. Always learning, building, and exploring new technologies to push the boundaries of innovation.
 
 ---
 
