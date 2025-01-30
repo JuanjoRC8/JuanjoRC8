@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Developer** with a love for cre
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 **Background:** [Insert your field of study or relevant experience]
+- 🎓 **Background:** [Graduate in computer engineering]
 - 💼 **Currently Working On:** Exciting **Full Stack** projects with a focus on **React** and **JavaScript**.
 - 🌱 **Learning Goals:** Deepening my knowledge in **Networks** and **Protocols**.
 
