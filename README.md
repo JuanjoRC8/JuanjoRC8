@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Developer** with a love for cre
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoRC8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanjoRC8&theme=redical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ### 🛠️ My Tech Toolbox:
